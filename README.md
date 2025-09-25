@@ -2,7 +2,7 @@
 IT Consultant · Prompt Engineering · Generative AI  
 Naples, Italy
 
-**Short bio** -
+## **Short bio**
 I’m an IT consultant transitioning into Prompt Engineering and Generative AI. I focus on practical solutions, prompt design, and small Python integrations to automate workflows and build prototypes.
 
 ## Skills
