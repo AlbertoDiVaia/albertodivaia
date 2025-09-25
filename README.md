@@ -1,6 +1,6 @@
 # Alberto Di Vaia
 IT Consultant · Prompt Engineering · Generative AI  
-Naples, Italy · alberto.divaia@outlook.com · https://www.linkedin.com/in/alberto-di-vaia-948823292/
+Naples, Italy
 
 Short bio
 I’m an IT consultant transitioning into Prompt Engineering and Generative AI. I focus on practical solutions, prompt design, and small Python integrations to automate workflows and build prototypes.
