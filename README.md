@@ -5,11 +5,11 @@ Naples, Italy
 **Short bio** -
 I’m an IT consultant transitioning into Prompt Engineering and Generative AI. I focus on practical solutions, prompt design, and small Python integrations to automate workflows and build prototypes.
 
-Skills
--Prompt Engineering for ChatGPT (Vanderbilt University via Coursera)
--Python Programming Fundamentals (University of Michigan via Coursera)
--QA / Testing (ISTQB Foundation)
--LangChain / Vector DB (learning)
+## Skills
+- Prompt Engineering for ChatGPT (Vanderbilt University via Coursera)
+- Python Programming Fundamentals (University of Michigan via Coursera)
+- QA / Testing (ISTQB Foundation)
+- LangChain / Vector DB (learning)
 
 Selected Projects
 - **Chatbot Q&A** — A retrieval-based chatbot that answers questions from a custom document set. (in progress)
