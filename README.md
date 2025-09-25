@@ -11,10 +11,10 @@ I’m an IT consultant transitioning into Prompt Engineering and Generative AI. 
 - QA / Testing (ISTQB Foundation)
 - LangChain / Vector DB (learning)
 
-Selected Projects
+## Selected Projects
 - **Chatbot Q&A** — A retrieval-based chatbot that answers questions from a custom document set. (in progress)
 
-Contact
+## Contact
 - Email: alberto.divaia@outlook.com
 - LinkedIn: https://www.linkedin.com/in/alberto-di-vaia-948823292/
 
