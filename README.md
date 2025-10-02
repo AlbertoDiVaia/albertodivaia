@@ -12,7 +12,7 @@ I’m an IT consultant transitioning into Prompt Engineering and Generative AI. 
 - LangChain / Vector DB (learning)
 
 ## Selected Projects
-- **Chatbot Q&A** — A retrieval-based chatbot that answers questions from a custom document set. (in progress)
+- **Chatbot Q&A** — A retrieval-based chatbot that answers questions from a custom document set. (Sep-Oct 2025)
 
 ## Contact
 - Email: alberto.divaia@outlook.com
